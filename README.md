@@ -31,7 +31,7 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanrajvanshi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrajvanshi)](https://github.com/amanrajvanshi/github-readme-stats)
+[![Top Languages...](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrajvanshi&layout=pie)](https://github.com/amanrajvanshi/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajvanshi&" alt="amanrajvanshi" /></p>
 
