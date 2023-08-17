@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrajvanshi&show_icons=true&locale=en&layout=compact" alt="amanrajvanshi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrajvanshi&show_icons=true&locale=en" alt="amanrajvansh" alt="amanrajvanshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajvanshi&" alt="amanrajvanshi" /></p>
