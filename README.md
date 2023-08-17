@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aman.rajvanshi.98@gmail.com**
 
-- 📄 Know about my experiences [CTO @ Webixun Infoways Pvt. Ltd.](CTO @ Webixun Infoways Pvt. Ltd.)
+- 📄 Know about my experiences [CTO @ Webixun Infoways Pvt. Ltd.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
