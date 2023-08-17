@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajvanshiji" target="blank"><img src="https://img.shields.io/twitter/follow/rajvanshiji?logo=twitter&style=for-the-badge" alt="rajvanshiji" /></a> </p>
 
-- 🔭 I’m currently working on **Dapper Lifestyle**
+- 🔭 I’m currently working on **Weazy Dine** [https://weazydine.com]
 
 - 🌱 I’m currently learning **Next js, Vue Js**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aman.rajvanshi.98@gmail.com**
 
-- 📄 Know about my experiences [CTO @ Webixun Infoways Pvt. Ltd.](CTO @ Webixun Infoways Pvt. Ltd.)
+- 📄 Know about my experiences : CTO @ Webixun Infoways Pvt. Ltd.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
