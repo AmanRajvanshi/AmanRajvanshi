@@ -33,7 +33,7 @@
 
 [![Top Languages...](https://github-readme-stats.vercel.app/api/top-langs/?username=amanrajvanshi&layout=pie)](https://github.com/amanrajvanshi/github-readme-stats)
 
-[![Aman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@amanrajvanshi)](https://github.com/amanrajvanshi/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/60578596-d70a-45a1-8b37-28a87d15816b.svg)](https://wakatime.com/@60578596-d70a-45a1-8b37-28a87d15816b)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrajvanshi&" alt="amanrajvanshi" /></p>
 
