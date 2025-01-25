@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrajvanshi" alt="amanrajvanshi" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/rajvanshiji" target="blank"><img src="https://img.shields.io/twitter/follow/rajvanshiji?logo=twitter&style=for-the-badge" alt="rajvanshiji" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/rajvanshiji" target="blank"><img src="https://img.shields.io/twitter/follow/rajvanshiji?logo=twitter&style=for-the-badge" alt="rajvanshiji" /></a> </p> -->
 
 - 🌱 I’m currently learning **Next js, Vue Js**
 
